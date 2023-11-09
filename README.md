@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoYBoYOO7
+- 👋 Hi, I’m @Vansh Yadav
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning CPP and DSA 
 - 📫 How to reach me gmail: vansh.15926@gmail.com
