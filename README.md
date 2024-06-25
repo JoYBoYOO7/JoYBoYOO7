@@ -22,7 +22,6 @@ Feel free to connect with me if you have any questions, suggestions, or just wan
 ## 🛠️ Tech Stack
 
 - **Languages**: Python, C++, JavaScript
-- **Tools & Frameworks**: TensorFlow, PyTorch, scikit-learn, Pandas, NumPy
 - **Databases**: MySQL, MongoDB
 - **Version Control**: Git, GitHub
 
