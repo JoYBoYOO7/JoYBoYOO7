@@ -21,11 +21,18 @@ Feel free to connect with me if you have any questions, suggestions, or just wan
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, C++, JavaScript
-- **Databases**: MySQL, MongoDB
-- **Version Control**: Git, GitHub
+**Programming languages**: Python, JavaScript, C, C++, Java
+**Frontend Technologies**: React.js, Next.js, HTML, CSS, React Native, Bootstrap 
+**Backend/DevOps**: Node.js, Django, PostgreSQL, Firebase
+**Computer software/ frameworks**:  Typescript, Git, Linux, Scrum Agile,
 
 ## 🔭 Current Projects
+**Personal Portfolio**(Next.js, Three.js, Framer Motion, Tailwind CSS)
+This portfolio showcases my projects and skills through an interactive and visually stunning experience. Explore my work and learn more about my professional journey.
+**Analysis of Instagram**  (React.js, Firebase, Node.js, Firestore, PostgreSQL)
+Implemented user profiles, photo and video sharing, likes, comments, and follow/unfollow functionalities. Successfully managed concurrent users and high-volume data traffic, ensuring a seamless user experience with efficient real-time updates and interactions.
+**AI Blog Website** (Django, HTML, CSS, Gemini API)
+Improved user engagement by 30% through AI-driven content suggestions and automated blog updates, reducing manual content creation efforts by 40%.
 
 ## 🤝 Let's Collaborate!
 Thanks for stopping by! 😊
