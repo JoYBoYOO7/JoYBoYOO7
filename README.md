@@ -43,3 +43,36 @@ Thanks for stopping by! 😊
 JoYBoYOO7/JoYBoYOO7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<table>
+  <td>
+    <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" />
+    <p><strong>🎨 Front</strong></p>
+    <ul>
+      <li>Next.js, React, TypeScript, JavaScript</li>
+      <li>Tailwind, Sass, shadcn/ui, Bootstrap</li>
+      <li>SEO, Accessibility, Copywriting</li>
+      <li>Astro, ...</li>
+    </ul>
+    <br /><p><strong>🛠 Back</strong></p>
+    <ul>
+      <li>Next.js, Node.js, Express</li>
+      <li>MongoDB, PostgreSQL</li>
+      <li>Firebase, Appwrite, Cloudinary</li>
+    </ul>
+    <br /><p><strong>📁 More</strong></p>
+    <ul>
+      <li>Wordpress/Divi, React Native/Expo</li>
+      <li>Figma, Photoshop, Midjourney, Dall-E</li>
+      <li>Vercel, Hostinger, Netlify</li>
+      <li>Git, OpenAI API, AI Tools</li>
+    </ul>
+    <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
+  </td>
+  <td>
+    <img src="https://i.ibb.co/L9W5cdh/goku.png"/>
+  </td>
+</table>
+
+<div align="center">
+  <img src="https://i.ibb.co/XYSXd3j/footer.gif">
+</div>
