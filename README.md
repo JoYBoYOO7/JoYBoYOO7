@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.ibb.co/XYSXd3j/footer.gif">
+</div>
+
 # 👋 Hi there, I'm Vansh Yadav!
 
 Welcome to my GitHub profile! I'm passionate about Data Science and Artificial Intelligence. Currently, I'm diving deep into the world of C++ and Data Structures & Algorithms. Here, you'll find a mix of my personal projects, learning experiments, and contributions to open-source.
@@ -73,6 +77,4 @@ You can click the Preview link to take a look at your changes.
   </td>
 </table>
 
-<div align="center">
-  <img src="https://i.ibb.co/XYSXd3j/footer.gif">
-</div>
+
