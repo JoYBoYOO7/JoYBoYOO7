@@ -1,179 +1,120 @@
 <div align="center">
-  <img src="https://i.ibb.co/XYSXd3j/footer.gif">
+  <img src="https://i.ibb.co/XYSXd3j/footer.gif" alt="Welcome Banner" />
 </div>
 
-# Welcome to my github! 👋, I'm Vansh Yadav!
+# 👋 Hello, I'm Vansh Yadav!
 
-Welcome to my GitHub profile! I'm passionate about Data Science and Artificial Intelligence. Currently, I'm diving deep into the world of C++ and Data Structures & Algorithms. Here, you'll find a mix of my personal projects, learning experiments, and contributions to open-source.
+Welcome to my GitHub! I'm a passionate learner and aspiring engineer deeply interested in **Data Science**, **Artificial Intelligence**, and **Software Development**. This space is a collection of my personal projects, learning journeys, and contributions to open-source communities.
 
-## 👀 What I'm Interested In
+---
 
-- **Data Science**: Exploring data, building models, and uncovering insights.
-- **Artificial Intelligence**: Creating intelligent systems and learning about neural networks, machine learning, and deep learning.
-- **Competitive Programming**: Sharpening my problem-solving skills with C++ and DSA.
+## 👀 Interests
 
-## 🌱 What I'm Learning
+- **Data Science**: Analyzing data, building models, and extracting actionable insights.
+- **Artificial Intelligence**: Working on intelligent systems, ML/DL, and neural networks.
+- **Competitive Programming**: Honing problem-solving skills with **C++** and **DSA**.
 
-- **C++**: Mastering the language's intricacies and nuances.
-- **Data Structures & Algorithms (DSA)**: Enhancing my understanding of fundamental concepts and efficient problem-solving techniques.
+---
 
-## 📫 How to Reach Me
+## 🌱 Currently Learning
 
-- **Gmail**: [vansh.15926@gmail.com](mailto:vansh.15926@gmail.com)
+- **C++**: Mastering core concepts and STL for optimal coding.
+- **Data Structures & Algorithms**: Strengthening fundamentals for better problem-solving.
 
-Feel free to connect with me if you have any questions, suggestions, or just want to chat about tech and innovation!
+---
+
+## 📫 Contact Me
+
+- **Email**: [vansh.15926@gmail.com](mailto:vansh.15926@gmail.com)
+
+Feel free to connect if you have questions, ideas, or just want to talk tech!
+
+---
 
 ## 🛠️ Tech Stack
 
-## What I know :computer:
-- **Programming Languages (Data Structures & Algorithms)**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>Python</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>C++</strong></span><br/>
-						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Java</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
-- **Frontend Development**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td align="center">
-						<span><strong>HTML</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-					</td>
-					<td align="center">
-						<span><strong>CSS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-					</td>
-					<td align="center">
-						<span><strong>Javascript</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-					</td>
-					<td align="center">
-						<span><strong>Typescript</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
-					</td>
-					<td align="center">
-						<span><strong>Bootstrap</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-					</td>
-					<td align="center">
-						<span><strong>React</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
-					</td>
-					<td  align="center">
-						<span><strong>Redux</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
-					</td>
-					<td align="center">
-						<span><strong>Material UI</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
-					</td>
-					<td align="center">
-						<span><strong>React Native</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
-					</td>
-				</tr>
-				<tr>
-					<td align="center">
-						<span><strong>Next JS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
-					</td>
-					<td align="center">
-						<span><strong>Vue.JS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
-	
-- **Backend Development**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>Node JS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Express</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/express.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>MongoDB</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Firebase</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
+### 🚀 Languages
+<p align="center">
+  <img src="https://cdn.svgporn.com/logos/python.svg" height="50" alt="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="50" alt="C++" />
+  <img src="https://cdn.svgporn.com/logos/java.svg" height="50" alt="Java" />
+</p>
 
-## 🔭 Current Projects
-**Personal Portfolio**(Next.js, Three.js, Framer Motion, Tailwind CSS)
-This portfolio showcases my projects and skills through an interactive and visually stunning experience. Explore my work and learn more about my professional journey.
+### 🎨 Frontend
+<p align="center">
+  <img src="https://cdn.svgporn.com/logos/html-5.svg" height="50" alt="HTML" />
+  <img src="https://cdn.svgporn.com/logos/css-3.svg" height="50" alt="CSS" />
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="50" alt="TypeScript" />
+  <img src="https://cdn.svgporn.com/logos/bootstrap.svg" height="50" alt="Bootstrap" />
+  <img src="https://cdn.svgporn.com/logos/react.svg" height="50" alt="React" />
+  <img src="https://cdn.svgporn.com/logos/redux.svg" height="50" alt="Redux" />
+  <img src="https://cdn.svgporn.com/logos/material-ui.svg" height="50" alt="Material UI" />
+  <img src="https://cdn.svgporn.com/logos/vue.svg" height="50" alt="Vue.js" />
+  <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" height="50" alt="Next.js" />
+</p>
 
-**Analysis of Instagram**  (React.js, Firebase, Node.js, Firestore, PostgreSQL)
-Implemented user profiles, photo and video sharing, likes, comments, and follow/unfollow functionalities. Successfully managed concurrent users and high-volume data traffic, ensuring a seamless user experience with efficient real-time updates and interactions.
+### 🛠 Backend & Databases
+<p align="center">
+  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height="50" alt="Node.js" />
+  <img src="https://cdn.svgporn.com/logos/express.svg" height="50" alt="Express" />
+  <img src="https://cdn.svgporn.com/logos/mongodb.svg" height="50" alt="MongoDB" />
+  <img src="https://cdn.svgporn.com/logos/firebase.svg" height="50" alt="Firebase" />
+  <img src="https://cdn.svgporn.com/logos/postgresql.svg" height="50" alt="PostgreSQL" />
+</p>
 
-**AI Blog Website** (Django, HTML, CSS, Gemini API)
-Improved user engagement by 30% through AI-driven content suggestions and automated blog updates, reducing manual content creation efforts by 40%.
+---
 
-## 🤝 Let's Collaborate!
-Thanks for stopping by! 😊
+## 📂 Current Projects
 
-<!---
-JoYBoYOO7/JoYBoYOO7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎯 Personal Portfolio  
+**Stack**: Next.js, Tailwind CSS, Framer Motion, Three.js  
+An interactive portfolio website to showcase my skills, projects, and experiences with smooth animations and modern UI/UX.
+
+### 📸 Instagram Analysis Clone  
+**Stack**: React.js, Firebase, Node.js, Firestore, PostgreSQL  
+Built a scalable clone of Instagram featuring real-time user profiles, media sharing, likes/comments, and follow/unfollow functionality.
+
+### 🧠 AI Blog Platform  
+**Stack**: Django, HTML/CSS, Gemini API  
+A dynamic blog site powered by AI content suggestions and automation, increasing engagement by 30% and reducing manual effort by 40%.
+
+---
+
+## 📦 Additional Tools & Platforms
+
 <table>
-  <td>
-    <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" />
-    <p><strong>🎨 Front</strong></p>
-    <ul>
-      <li>Next.js, React, TypeScript, JavaScript</li>
-      <li>Tailwind, Sass, shadcn/ui, Bootstrap</li>
-      <li>SEO, Accessibility, Copywriting</li>
-      <li>Astro, ...</li>
-    </ul>
-    <br /><p><strong>🛠 Back</strong></p>
-    <ul>
-      <li>Next.js, Node.js, Express</li>
-      <li>MongoDB, PostgreSQL</li>
-      <li>Firebase, Appwrite, Cloudinary</li>
-    </ul>
-    <br /><p><strong>📁 More</strong></p>
-    <ul>
-      <li>Wordpress/Divi, React Native/Expo</li>
-      <li>Figma, Photoshop, Midjourney, Dall-E</li>
-      <li>Vercel, Hostinger, Netlify</li>
-      <li>Git, OpenAI API, AI Tools</li>
-    </ul>
-    <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
-  </td>
-  <td>
-    <img src="https://i.ibb.co/L9W5cdh/goku.png"/>
-  </td>
+  <tr>
+    <td>
+      <h4>🎨 Frontend</h4>
+      <ul>
+        <li>Next.js, React, TypeScript, JavaScript</li>
+        <li>Tailwind CSS, Sass, shadcn/ui, Bootstrap</li>
+        <li>SEO, Accessibility, Copywriting</li>
+        <li>Astro</li>
+      </ul>
+      <h4>🛠 Backend</h4>
+      <ul>
+        <li>Next.js, Node.js, Express</li>
+        <li>MongoDB, PostgreSQL</li>
+        <li>Firebase, Appwrite, Cloudinary</li>
+      </ul>
+      <h4>📁 More</h4>
+      <ul>
+        <li>React Native/Expo, WordPress/Divi</li>
+        <li>Figma, Photoshop, Midjourney, DALL·E</li>
+        <li>Vercel, Netlify, Hostinger</li>
+        <li>Git, OpenAI API, AI Tools</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://i.ibb.co/L9W5cdh/goku.png" width="300px" alt="Goku Dev" />
+    </td>
+  </tr>
 </table>
 
+---
 
+## 🤝 Let's Collaborate!
+
+Thanks for visiting my profile! If you have ideas, want to collaborate on a project, or just want to connect—drop a message. Let’s build something amazing together! 🚀
