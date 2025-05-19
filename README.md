@@ -33,35 +33,35 @@ Feel free to connect if you have questions, ideas, or just want to talk tech!
 
 ## 🛠️ Tech Stack
 
-### 🚀 Languages
-<p align="center">
-  <img src="https://cdn.svgporn.com/logos/python.svg" height="50" alt="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="50" alt="C++" />
-  <img src="https://cdn.svgporn.com/logos/java.svg" height="50" alt="Java" />
-</p>
+### 🚀 Programming Languages
+| Name        | Logo |
+|-------------|------|
+| Python      | ![Python](https://cdn.svgporn.com/logos/python.svg) |
+| C++         | ![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) |
+| Java        | ![Java](https://cdn.svgporn.com/logos/java.svg) |
 
-### 🎨 Frontend
-<p align="center">
-  <img src="https://cdn.svgporn.com/logos/html-5.svg" height="50" alt="HTML" />
-  <img src="https://cdn.svgporn.com/logos/css-3.svg" height="50" alt="CSS" />
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" height="50" alt="JavaScript" />
-  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="50" alt="TypeScript" />
-  <img src="https://cdn.svgporn.com/logos/bootstrap.svg" height="50" alt="Bootstrap" />
-  <img src="https://cdn.svgporn.com/logos/react.svg" height="50" alt="React" />
-  <img src="https://cdn.svgporn.com/logos/redux.svg" height="50" alt="Redux" />
-  <img src="https://cdn.svgporn.com/logos/material-ui.svg" height="50" alt="Material UI" />
-  <img src="https://cdn.svgporn.com/logos/vue.svg" height="50" alt="Vue.js" />
-  <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" height="50" alt="Next.js" />
-</p>
+### 🎨 Frontend Development
+| Name        | Logo |
+|-------------|------|
+| HTML        | ![HTML](https://cdn.svgporn.com/logos/html-5.svg) |
+| CSS         | ![CSS](https://cdn.svgporn.com/logos/css-3.svg) |
+| JavaScript  | ![JavaScript](https://cdn.svgporn.com/logos/javascript.svg) |
+| TypeScript  | ![TypeScript](https://cdn.svgporn.com/logos/typescript-icon.svg) |
+| Bootstrap   | ![Bootstrap](https://cdn.svgporn.com/logos/bootstrap.svg) |
+| React       | ![React](https://cdn.svgporn.com/logos/react.svg) |
+| Redux       | ![Redux](https://cdn.svgporn.com/logos/redux.svg) |
+| Material UI | ![Material UI](https://cdn.svgporn.com/logos/material-ui.svg) |
+| Vue.js      | ![Vue.js](https://cdn.svgporn.com/logos/vue.svg) |
+| Next.js     | ![Next.js](https://cdn.svgporn.com/logos/nextjs-icon.svg) |
 
 ### 🛠 Backend & Databases
-<p align="center">
-  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height="50" alt="Node.js" />
-  <img src="https://cdn.svgporn.com/logos/express.svg" height="50" alt="Express" />
-  <img src="https://cdn.svgporn.com/logos/mongodb.svg" height="50" alt="MongoDB" />
-  <img src="https://cdn.svgporn.com/logos/firebase.svg" height="50" alt="Firebase" />
-  <img src="https://cdn.svgporn.com/logos/postgresql.svg" height="50" alt="PostgreSQL" />
-</p>
+| Name         | Logo |
+|--------------|------|
+| Node.js      | ![Node.js](https://cdn.svgporn.com/logos/nodejs-icon.svg) |
+| Express.js   | ![Express](https://cdn.svgporn.com/logos/express.svg) |
+| MongoDB      | ![MongoDB](https://cdn.svgporn.com/logos/mongodb.svg) |
+| Firebase     | ![Firebase](https://cdn.svgporn.com/logos/firebase.svg) |
+| PostgreSQL   | ![PostgreSQL](https://cdn.svgporn.com/logos/postgresql.svg) |
 
 ---
 
@@ -83,34 +83,42 @@ A dynamic blog site powered by AI content suggestions and automation, increasing
 
 ## 📦 Additional Tools & Platforms
 
-<table>
-  <tr>
-    <td>
-      <h4>🎨 Frontend</h4>
-      <ul>
-        <li>Next.js, React, TypeScript, JavaScript</li>
-        <li>Tailwind CSS, Sass, shadcn/ui, Bootstrap</li>
-        <li>SEO, Accessibility, Copywriting</li>
-        <li>Astro</li>
-      </ul>
-      <h4>🛠 Backend</h4>
-      <ul>
-        <li>Next.js, Node.js, Express</li>
-        <li>MongoDB, PostgreSQL</li>
-        <li>Firebase, Appwrite, Cloudinary</li>
-      </ul>
-      <h4>📁 More</h4>
-      <ul>
-        <li>React Native/Expo, WordPress/Divi</li>
-        <li>Figma, Photoshop, Midjourney, DALL·E</li>
-        <li>Vercel, Netlify, Hostinger</li>
-        <li>Git, OpenAI API, AI Tools</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://i.ibb.co/L9W5cdh/goku.png" width="300px" alt="Goku Dev" />
-    </td>
-  </tr>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center">Frontend Tools</th>
+      <th align="center">Backend Tools</th>
+      <th align="center">Utilities & Services</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <ul>
+          <li>Next.js, React, TypeScript</li>
+          <li>JavaScript, Astro, Sass</li>
+          <li>Tailwind CSS, shadcn/ui, Bootstrap</li>
+          <li>SEO, Accessibility, Copywriting</li>
+        </ul>
+      </td>
+      <td align="center">
+        <ul>
+          <li>Node.js, Express, Next.js</li>
+          <li>MongoDB, PostgreSQL</li>
+          <li>Firebase, Appwrite, Cloudinary</li>
+        </ul>
+      </td>
+      <td align="center">
+        <ul>
+          <li>React Native / Expo</li>
+          <li>WordPress / Divi</li>
+          <li>Figma, Photoshop, Midjourney, DALL·E</li>
+          <li>Vercel, Netlify, Hostinger</li>
+          <li>Git, OpenAI API, AI Tools</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
