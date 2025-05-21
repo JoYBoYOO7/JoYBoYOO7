@@ -33,37 +33,108 @@ Feel free to connect if you have questions, ideas, or just want to talk tech!
 
 ## 🛠️ Tech Stack
 
-### 🚀 Languages
-<p align="center">
-  <img src="https://cdn.svgporn.com/logos/python.svg" height="50" alt="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="50" alt="C++" />
-  <img src="https://cdn.svgporn.com/logos/java.svg" height="50" alt="Java" />
-</p>
-
-### 🎨 Frontend
-<p align="center">
-  <img src="https://cdn.svgporn.com/logos/html-5.svg" height="50" alt="HTML" />
-  <img src="https://cdn.svgporn.com/logos/css-3.svg" height="50" alt="CSS" />
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" height="50" alt="JavaScript" />
-  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="50" alt="TypeScript" />
-  <img src="https://cdn.svgporn.com/logos/bootstrap.svg" height="50" alt="Bootstrap" />
-  <img src="https://cdn.svgporn.com/logos/react.svg" height="50" alt="React" />
-  <img src="https://cdn.svgporn.com/logos/redux.svg" height="50" alt="Redux" />
-  <img src="https://cdn.svgporn.com/logos/material-ui.svg" height="50" alt="Material UI" />
-  <img src="https://cdn.svgporn.com/logos/vue.svg" height="50" alt="Vue.js" />
-  <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" height="50" alt="Next.js" />
-</p>
-
-### 🛠 Backend & Databases
-<p align="center">
-  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height="50" alt="Node.js" />
-  <img src="https://cdn.svgporn.com/logos/express.svg" height="50" alt="Express" />
-  <img src="https://cdn.svgporn.com/logos/mongodb.svg" height="50" alt="MongoDB" />
-  <img src="https://cdn.svgporn.com/logos/firebase.svg" height="50" alt="Firebase" />
-  <img src="https://cdn.svgporn.com/logos/postgresql.svg" height="50" alt="PostgreSQL" />
-</p>
-
----
+- **Programming Languages (Data Structures & Algorithms)**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Python</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>C++</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Java</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **Frontend Development**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td align="center">
+						<span><strong>HTML</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+					</td>
+					<td align="center">
+						<span><strong>CSS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+					</td>
+					<td align="center">
+						<span><strong>Javascript</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+					</td>
+					<td align="center">
+						<span><strong>Typescript</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+					</td>
+					<td align="center">
+						<span><strong>Bootstrap</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+					</td>
+					<td align="center">
+						<span><strong>React</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+					</td>
+					<td  align="center">
+						<span><strong>Redux</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+					</td>
+					<td align="center">
+						<span><strong>Material UI</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
+					</td>
+					<td align="center">
+						<span><strong>React Native</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+					</td>
+				</tr>
+				<tr>
+					<td align="center">
+						<span><strong>Next JS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
+					</td>
+					<td align="center">
+						<span><strong>Vue.JS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+	
+- **Backend Development**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Node JS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Express</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/express.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>MongoDB</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Firebase</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
 
 ## 📂 Current Projects
 
