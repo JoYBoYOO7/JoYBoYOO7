@@ -13,11 +13,12 @@
 </div>
 
 <p align="center">
-  🔭 I’m currently working on an AI-powered product that would revolutionize learning experiences.
-  🌱 I work with NEXT.js to build scalable websites and applications
-  📖 A final year student of Computer Science Engineering at Vellore Intitute of Technology,Vellore.
-  ⚡ Fun fact: I enjoy applying what I learn to solve problems.
-  👨‍💻 Check out all my projects on <a href="https://github.com/JoYBoYOO7" target="_blank">GitHub</a>
+  🔭 I’m currently working on an <b>AI-powered product</b> that will revolutionize learning experiences.<br>
+  🌱 I work with <b>NEXT.js</b> to build scalable websites and applications.<br>
+  📖 Final year student of Computer Science Engineering at <b>Vellore Institute of Technology, Vellore</b>.<br>
+  ⚡ <b>Fun fact:</b> I enjoy applying what I learn to solve real-world problems.<br>
+  👨‍💻 Check out all my projects on 
+  <a href="https://github.com/JoYBoYOO7" target="_blank"><b>GitHub</b></a>
 </p>
 
 <p align="center">
