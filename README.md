@@ -32,33 +32,56 @@
 
 <p align="center">
 
-  <!-- Programming Languages -->
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### Frontend
+![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
+![JS](https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
 
-  <!-- Frontend -->
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-  ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Mobile
 
-  <!-- Backend -->
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![React Native](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=react)
 
-  <!-- AI/ML & Data -->
-  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-</p>
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![Nest.js](https://img.shields.io/badge/-Nest.js-red?style=for-the-badge&logo=nestjs)
+![Prisma](https://img.shields.io/badge/-Prisma-blue?style=for-the-badge&logo=prisma)
+![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?style=for-the-badge&logo=graphql)
+
+### Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql)
+
+### Serverless
+![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-f38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Hono.js](https://img.shields.io/badge/-Hono-red?style=for-the-badge&logo=hono&logoColor=white)
+![Firebase Functions](https://img.shields.io/badge/-Firebase%20Functions-039BE5?style=for-the-badge&logo=firebase)
+
+### Testing
+![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-61DAFB?style=for-the-badge&logo=testing-library)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest)
+
+### Version Control
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
+
+### Cloud
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### Payment Gateway Integrations
+![Stripe](https://img.shields.io/badge/-Stripe-purple?style=for-the-badge&logo=stripe&logoColor=white)
+![HDFC](https://img.shields.io/badge/-HDFC-blue?style=for-the-badge&logo=hdfcbank&logoColor=white)
+![PhonePe](https://img.shields.io/badge/-PhonePe-purple?style=for-the-badge&logo=phonepe&logoColor=white)
+![Paytm](https://img.shields.io/badge/-Paytm-blue?style=for-the-badge&logo=paytm&logoColor=white)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider">
