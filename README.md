@@ -13,9 +13,10 @@
 </div>
 
 <p align="center">
-  🔭 I’m currently working on <b>Modern Web Solutions</b><br>
-  🌱 I’m currently learning <b>Next.js</b><br>
-  🚀 Passionate about emerging technologies<br>
+  🔭 I’m currently working on an AI-powered product that would revolutionize learning experiences.
+  🌱 I work with NEXT.js to build scalable websites and applications
+  📖 A final year student of Computer Science Engineering at Vellore Intitute of Technology,Vellore.
+  ⚡ Fun fact: I enjoy applying what I learn to solve problems.
   👨‍💻 Check out all my projects on <a href="https://github.com/JoYBoYOO7" target="_blank">GitHub</a>
 </p>
 
