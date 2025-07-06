@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Vansh Yadav!</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F72E&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Developer;Open+Source+Contributor;AI%2FML+Enthusiast;Problem+Solver" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=C8A2C8&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Developer;Open+Source+Contributor;AI%2FML+Enthusiast;Problem+Solver" alt="Typing Animation">
 </div>
 
 <p align="center">
