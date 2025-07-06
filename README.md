@@ -60,17 +60,11 @@
 
 ### Serverless
 ![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-f38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Hono.js](https://img.shields.io/badge/-Hono-red?style=for-the-badge&logo=hono&logoColor=white)
 ![Firebase Functions](https://img.shields.io/badge/-Firebase%20Functions-039BE5?style=for-the-badge&logo=firebase)
-
-### Testing
-![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-61DAFB?style=for-the-badge&logo=testing-library)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest)
 
 ### Version Control
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
 
 ### Cloud
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel)
