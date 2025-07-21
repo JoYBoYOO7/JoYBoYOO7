@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Banner"/>
+
+<h1 align="center">Vansh Yadav</h1>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=JoYBoYOO7&label=Profile%20views&color=2a17d1" alt="JoYBoYOO7" />
 </p>
+
 
 <div align="center">
   <img src="https://i.ibb.co/XYSXd3j/footer.gif" alt="Welcome Banner" width="80%" />
@@ -34,6 +37,31 @@
 
 <p align="center">
 
+
+<h2 align="center">🛠️ What I frequently use:</h3>
+<div align="center">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
+  <img width = "12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+
+
+
 ### Frontend
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
@@ -42,9 +70,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
 
-### Mobile
-
-![React Native](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=react)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
@@ -62,10 +87,6 @@
 ![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-f38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Firebase Functions](https://img.shields.io/badge/-Firebase%20Functions-039BE5?style=for-the-badge&logo=firebase)
 
-### Version Control
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-
 ### Cloud
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -73,31 +94,13 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-### Payment Gateway Integrations
+### Others
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Stripe](https://img.shields.io/badge/-Stripe-purple?style=for-the-badge&logo=stripe&logoColor=white)
 ![HDFC](https://img.shields.io/badge/-HDFC-blue?style=for-the-badge&logo=hdfcbank&logoColor=white)
 ![PhonePe](https://img.shields.io/badge/-PhonePe-purple?style=for-the-badge&logo=phonepe&logoColor=white)
 ![Paytm](https://img.shields.io/badge/-Paytm-blue?style=for-the-badge&logo=paytm&logoColor=white)
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider">
-</p>
-
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/JoYBoYOO7">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoYBoYOO7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoYBoYOO7&layout=compact&langs_count=8&theme=dark"/>
-      </a>
-    </td>
-    <td>
-      <img src="https://i.ibb.co/L9W5cdh/goku.png" width="300px" alt="Goku Dev" />
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider">
@@ -120,4 +123,3 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider">
 </p>
-
