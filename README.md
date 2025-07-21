@@ -1,5 +1,3 @@
-
-<h1 align="center">Vansh Yadav</h1>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=JoYBoYOO7&label=Profile%20views&color=2a17d1" alt="JoYBoYOO7" />
 </p>
