@@ -2,7 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=JoYBoYOO7&label=Profile%20views&color=2a17d1" alt="JoYBoYOO7" />
 </p>
 
-
 <div align="center">
   <img src="https://i.ibb.co/XYSXd3j/footer.gif" alt="Welcome Banner" width="80%" />
 </div>
