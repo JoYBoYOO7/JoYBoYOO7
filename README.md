@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.ibb.co/XYSXd3j/footer.gif" alt="Welcome Banner" width="80%" />
+  <img src="https://i.postimg.cc/1tBXFwQH/header.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Vansh Yadav!</h1>
@@ -120,3 +120,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider">
 </p>
+
+<div align="center">
+  <img src="https://i.postimg.cc/s2FrgXtg/footer.gif">
+</div>
